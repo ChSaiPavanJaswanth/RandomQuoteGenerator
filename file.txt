@@ -1,0 +1,7 @@
+{quote: `You will face many defeats in life, but never let yourself be defeated.` , person: `Maya Angelou`},
+{quote: `Go confidently in the direction of your dreams! Live the life you've imagined.` , person: `Henry David Thoreau`},
+{quote: `In the end, it's not the years in your life that count. It's the life in your years.` , person: `Abraham Lincoln`},
+{quote: `Never let the fear of striking out keep you from playing the game.` , person: `Babe Ruth`},
+{quote: `In this life we cannot do great things. We can only do small things with great love.` , person: `Mother Teresa`},
+{quote: `Many of life's failures are people who did not realize how close they were to success when they gave up.` , person: `Thomas A. Edison`},
+{quote: `You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.` , person: `Dr. Seuss`}
